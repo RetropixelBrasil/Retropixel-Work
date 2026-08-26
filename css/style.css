@@ -14,7 +14,7 @@ html{
     height:100%;
 }
 
-body{min-height:100vh;background: radial-gradient(circle at top, rgba(255, 255, 255, .95), #00000000 40%), linear-gradient(to bottom, #e8f3ff 0%, #ffffa4 18%, #ffeab8 45%, #f5d356 70%, #ffd825 100%);color:#244c74;}
+body{min-height:100vh;background: radial-gradient(circle at top, rgba(255, 255, 255, .95), #0000 40%), linear-gradient(to bottom, #e8f3ff 0%, #ffffa4 18%, #ffeab8 45%, #ffea9c 70%, #ffe054 100%);color:#244c74;}
 
 /* ==========================
    TOPO
@@ -167,7 +167,7 @@ main{
    APPS
 ========================== */
 
-.app-card{position:relative;overflow:hidden;text-decoration:none;color:#040404;text-align:center;padding:28px;border-radius:22px;background: linear-gradient(to bottom, rgba(255, 255, 255, .97) 0%, rgb(253 180 14 / 96%) 30%, rgba(255, 191, 0, .95) 100%);border:1px solid #a4c0dc;box-shadow:
+.app-card{position:relative;overflow:hidden;text-decoration:none;color:#040404;text-align:center;padding:28px;border-radius:22px;background: linear-gradient(to bottom, rgba(255, 255, 255, 0.97) 0%, rgba(253, 187, 36, 0.96) 30%, rgba(255, 198, 26, 0.95) 100%);border:1px solid #a4c0dc;box-shadow:
 
     inset 0 1px 0 white,
     inset 0 -1px 0 rgba(255,255,255,.5),
